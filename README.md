@@ -21,6 +21,21 @@
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!-- IDEs & Editors -->
 <h2> <img src="https://api.iconify.design/fluent:wrench-24-filled.svg?color=%23f9e2af" width="24" height="24" align="center" /> &nbsp;TOOLS</h2>
 
