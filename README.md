@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
 </p>
 
-# Hi, I'm Dileepan <img src="https://api.iconify.design/fluent:hand-wave-24-filled.svg?color=%23cba6f7" width="32" height="32" align="center" />
+# Hi, I'm Dileepan
 
 <p align="left">
   <img src="https://img.shields.io/badge/Theme-Catppuccin_Mocha-cba6f7?style=flat-square&logo=catppuccin&logoColor=cba6f7&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Focus-AI_Systems_%26_Backend-89b4fa?style=flat-square&logo=python&logoColor=89b4fa&labelColor=1e1e2e" />
 </p>
 
-## <img src="https://api.iconify.design/fluent:rocket-24-filled.svg?color=%23cba6f7" width="24" height="24" align="center" /> ABOUT ME
+## ABOUT ME
 
 ```json
 {
@@ -37,7 +37,7 @@
 </picture>
 
 <!-- IDEs & Editors -->
-<h2> <img src="https://api.iconify.design/fluent:wrench-24-filled.svg?color=%23f9e2af" width="24" height="24" align="center" /> &nbsp;TOOLS</h2>
+<h2>TOOLS</h2>
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
